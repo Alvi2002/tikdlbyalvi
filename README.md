@@ -20,7 +20,7 @@ $ node . <tiktok_url>
 ## Contact
 
 - Email: [redxalvi@gmail.com](mailto:redxalvi@gmail.com)
-- WhatsApp: [+8801854123433](https://wa.me/01854123433)
+- WhatsApp: [+8801854123433](https://wa.me/+8801854123433)
 
 <!-- License -->
 
