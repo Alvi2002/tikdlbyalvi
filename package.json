@@ -4,7 +4,7 @@
   "description": "Ssstik.io Scrapper - Tiktok Downloader",
   "main": "index.js",
   "repository": "https://github.com/Alvi2002/tikdlbyalvi",
-  "author": "ALVI AHMED<redxalvi@gmail.com>",
+  "author": "ALVI AHMED <redxalvi@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
